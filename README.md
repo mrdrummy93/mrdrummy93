@@ -6,7 +6,8 @@
 - 🏢 I'm looking for position of React Developer.
 
 <h2>📃 My CV</h2>
-[Yauheni Vasilyeu]
+
+[Yauheni Vasilyeu](https://github.com/mrdrummy93/mrdrummy93/blob/main/cv%20-%20en.pdf)
 
 <h2>🤝 Connect with me</h2>
  
