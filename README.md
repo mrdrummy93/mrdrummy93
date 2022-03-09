@@ -3,7 +3,6 @@
 - 🇧🇾  I live in Baranovichi, Belarus. 
 - 👀 I’m interested in WebDev.
 - 🌱 I’m currently learning React/Redux.
-- 🏢 I'm looking for position of React Developer.
 
 <h2>📃 My CV</h2>
 
