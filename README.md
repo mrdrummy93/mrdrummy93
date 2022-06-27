@@ -6,7 +6,7 @@
 
 <h2>📃 My CV</h2>
 
-[Yauheni Vasilyeu](https://github.com/mrdrummy93/mrdrummy93/blob/main/cv%20-%20en.pdf)
+[Yauheni Vasilyeu](https://docs.google.com/document/d/1vtG4-f1Q4rK0QBfM8t-tf3Q3eTarF3iE/edit)
 
 <h2>🤝 Connect with me</h2>
  
