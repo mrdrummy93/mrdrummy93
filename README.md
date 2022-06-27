@@ -6,8 +6,9 @@
 
 <h2>📃 My CV</h2>
 
-[Yauheni Vasilyeu](https://docs.google.com/document/d/1vtG4-f1Q4rK0QBfM8t-tf3Q3eTarF3iE/edit)
+[Yauheni Vasilyeu](https://github.com/mrdrummy93/mrdrummy93/files/8995365/cv.en.pdf)
 
 <h2>🤝 Connect with me</h2>
  
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yauheni-vasilyev-294b6b1ba/) [![telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/mrdrummy93)
+
